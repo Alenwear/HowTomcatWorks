@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+#package files
+target
+*.xml.bak
+
+#project file
+*.iml
+.idea
+.classpath
+.project
+.settings/
+.DS_Store
+
+#log
+log
+logs
+
+#temp
+.tmp
+tmp/
